@@ -8,7 +8,11 @@ import javax.imageio.ImageIO;
 import java.awt.*;
 class FlappyBird extends JFrame{
 	FlappyBird(){
+<<<<<<< HEAD
 	System.out.println("Hello");
+=======
+	System.out.print("Hii");
+>>>>>>> Harsh
     setExtendedState(MAXIMIZED_BOTH);
 	setDefaultCloseOperation(EXIT_ON_CLOSE);
 	setTitle("Flappy Bird");
